@@ -1,0 +1,47 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+tr,
+td,
+th {
+    border: 1px solid black;
+    padding: 10px;
+};
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+};
+
+tr,
+td,
+th {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.ism {
+    background-color: aqua;
+}
+
+.familiya {
+    background-color: violet;
+}
+
+.class {
+    background-color: yellowgreen;
+}
+
+.tr {
+    background-color: tomato;
+}
+
+.Sohib {
+    background-color:chocolate;
+}
+
+.jami {
+    background-color: blue;
+};
